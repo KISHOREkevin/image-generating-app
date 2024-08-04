@@ -3,6 +3,7 @@
 I had done the AI image generator application project using :
 * React + vite
 * Tailwind CSS
+* hugging face model
 
 deployed in:
 <https://jocular-stardust-1bda8c.netlify.app///>
