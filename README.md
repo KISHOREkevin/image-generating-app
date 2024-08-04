@@ -1,4 +1,4 @@
-# All Around News App
+# AI image generator 
 
 I had done the AI image generator application project using :
 * React + vite
