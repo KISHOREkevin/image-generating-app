@@ -1,3 +1,12 @@
+# All Around News App
+
+I had done the AI image generator application project using :
+* React + vite
+* Tailwind CSS
+
+deployed in:
+<https://jocular-stardust-1bda8c.netlify.app///>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
